@@ -313,3 +313,4 @@ public static void main(String[] args){
         Try3 wow = new Try3();
         }
 }  
+//import images//create buttons//for score//current score shows on the title
