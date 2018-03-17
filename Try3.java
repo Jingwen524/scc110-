@@ -1,7 +1,7 @@
 import java.awt.*;
 import java.awt.event.*;
 import javax.swing.*;
-
+//student jingwen feng
 public class Try3 extends JFrame implements ActionListener{
      Icon blank;
      Icon bart0=new ImageIcon("bart0.jpg");
